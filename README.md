@@ -14,6 +14,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fandj99&show_icons=true&theme=transparent&count_private=true&rank_icon=github)](https://github.com/fandj99)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fandj99&theme=transparent&langs_count=10&layout=donut&hide=SCSS,Less,CSS)](https://github.com/fandj99)
-[![snk](https://raw.githubusercontent.com/chencd97/chencd97/output/github-contribution-grid-snake.svg)](https://github.com/fandj99)
+[![snk](https://raw.githubusercontent.com/fandj99/fandj99/output/github-contribution-grid-snake.svg)](https://github.com/fandj99)
 
 
