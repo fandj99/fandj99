@@ -10,4 +10,6 @@
 - 🎵 RAP：作为一名有音乐才能的Java开发人员，我当然也会RAP。我能够写出自己的RAP歌词，并用饶舌的方式演绎出来。
 - 🏀 篮球：我还有一个独特的兴趣——篮球。篮球是我生活中的一部分，我在业余时间经常打球，这对我身体健康和心理放松都很有好处。
 
+[![snk](https://raw.githubusercontent.com/chencd97/chencd97/output/github-contribution-grid-snake.svg)](https://github.com/chencd97)
+
 
